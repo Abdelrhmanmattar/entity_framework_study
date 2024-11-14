@@ -1,0 +1,3 @@
+{
+  "constr": "Server = . ; Database = Chinook ; Integrated Security = SSPI ; TrustServerCertificate = True;"
+}
